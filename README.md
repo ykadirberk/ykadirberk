@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kadir Berk
 - 👀 I’m interested in Game Development and Backend
 - 🌱 I’m currently learning Rust and Java
-- 📫 How to reach me through my email
+- 📫 You can reach me through my email ykadirberk2@gmail.com
 
 <!---
 ykadirberk/ykadirberk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
